@@ -8,6 +8,7 @@
 
 Welcome to my GitHub profile! I'm Kai Erik Niermann, a Computer Science student at Vrije Universiteit Amsterdam. I have a passion for software development and enjoy working on a variety of projects. Which you can explore either here or on my dedicated portfolio page.
 
+<!-- 
 ## Education
 - Bachelor of Computer Science, Vrije Universiteit Amsterdam (Sep. 2021 - Expected June 2024)
 - Bilingual IB-Diploma, International School Meinfranken (Aug. 2018 - May 2020)
