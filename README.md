@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # I'm Kai Erik Niermann
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kai%20Niermann-blue)](https://www.linkedin.com/in/kai-niermann-0794ab91/)
