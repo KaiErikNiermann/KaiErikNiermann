@@ -1,7 +1,7 @@
 # I'm Kai Erik Niermann
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kai%20Niermann-blue)](https://www.linkedin.com/in/kai-niermann-0794ab91/)
-![Email](https://img.shields.io/badge/Email-kai.niermann@gmail.com-green)
+[![Email](https://img.shields.io/badge/Email-kai.niermann@gmail.com-green)](mailto:kai.niermann@gmail.com)
 [![Portflio](https://img.shields.io/badge/Portfolio-apelsauce.me-green)](https://apelsauce.me/)
 
 Welcome to my GitHub profile! I'm Kai Erik Niermann, a Computer Science student at Vrije Universiteit Amsterdam. I have a passion for software development and enjoy working on a variety of projects. Which you can explore either here or on my dedicated portfolio page.
