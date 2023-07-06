@@ -1,4 +1,4 @@
-# I'm Kai Erik Niermann
+# I'm Kai Erik Niermann 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kai%20Niermann-blue)](https://www.linkedin.com/in/kai-niermann-0794ab91/)
 [![Email](https://img.shields.io/badge/Email-kai.niermann@gmail.com-green)](mailto:kai.niermann@gmail.com)
