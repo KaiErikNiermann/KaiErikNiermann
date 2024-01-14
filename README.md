@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/Email-kai.niermann@gmail.com-green)](mailto:kai.niermann@gmail.com)
 [![Portflio](https://img.shields.io/badge/Portfolio-apelsauce.me-green)](https://apelsauce.me/)
 
-I'm a Computer Science student at Vrije Universiteit Amsterdam. I enjoy working on a variety of personal and academic projects which you can explore either here or on my dedicated portfolio page.
+Hey there! I'm a student at VU Amsterdam, I'm interested in computational science with a special fascination for computational neuroscience. I love creating software that makes a positive impact and lends a helping hand. Beyond coding, I find joy in supporting the folks around me through sharing notes and other resources. You can explore what I'm currently working on either here or on my portfolio page.
 
 <!-- 
 ## Education
