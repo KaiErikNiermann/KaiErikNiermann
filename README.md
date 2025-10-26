@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kai%20Erik%20Niermann-blue)](https://www.linkedin.com/in/kai-erik-niermann-0794ab91/)
 [![Email](https://img.shields.io/badge/Email-kai.niermann@gmail.com-green)](mailto:kai.niermann@gmail.com)
 [![Portflio](https://img.shields.io/badge/Portfolio-apelsauce.me-green)](https://apelsauce.me/)
-[![Resume](https://img.shields.io/badge/Resume-file_link-green)](https://drive.google.com/file/d/1kZTzaw7UVJO7q9PyIgY1xB_rVIfO4AG4/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-file_link-green)](https://drive.google.com/file/d/1tAcIFvrGccWHUg_cnwewMzl3zrtUOLDv/view?usp=sharing)
 
 Hey there! I'm a student at VU Amsterdam, I'm interested in computational science with a special fascination for computational neuroscience. I love creating software that makes a positive impact. Beyond coding, I find joy in supporting the people around me through sharing notes and other resources. You can explore what I'm currently working on either here or on my portfolio page.
 
