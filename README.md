@@ -5,6 +5,11 @@
 [![Portflio](https://img.shields.io/badge/Portfolio-apelsauce.me-green)](https://apelsauce.me/)
 [![Resume](https://img.shields.io/badge/Resume-file_link-green)](https://drive.google.com/file/d/1tAcIFvrGccWHUg_cnwewMzl3zrtUOLDv/view?usp=sharing)
 
+Some potentially neat websites I made
+- portfolio: https://apelsauce.me/ (*tad outdated, see repos for latest)
+- notes + blog: https://kaierikniermann.github.io/notes/index/
+- housing data: https://kaierikniermann.github.io/roomnl-stats (for all my fellow desperate students 😭)
+
 <!-- 
 ## Education
 - Bachelor of Computer Science, Vrije Universiteit Amsterdam (Sep. 2021 - Expected June 2024)
